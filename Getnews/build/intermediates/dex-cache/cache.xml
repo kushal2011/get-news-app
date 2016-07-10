@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\files\android_projects\Getnews\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\files\android_projects\Getnews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_883e5c67203e410619c9551b15d2d276f13204af\classes.dex" />
+    </item>
+    <item
+        jar="E:\files\android_projects\Getnews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\files\android_projects\Getnews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_5c3a13a27e853d4f1796324f5229d85a72d39d98\classes.dex" />
+    </item>
+    <item
+        jar="E:\files\android_projects\Getnews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\files\android_projects\Getnews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_754629ecb6e0b7eacfa59b0314fdacdf5aeec458\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kusha_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\files\android_projects\Getnews\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_6aa7e6fef6f2d4e992638cb288e239d177ab61a4\classes.dex" />
+    </item>
+    <item
+        jar="E:\files\android_projects\Getnews\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="E:\files\android_projects\Getnews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_f8c5dda3030dd633567d921bc9d784e0f86e69ff\classes.dex" />
+    </item>
+    <item
+        jar="E:\files\android_projects\Getnews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\files\android_projects\Getnews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3c3e2294f14f1853b5669876eabc8cec54828714\classes.dex" />
+    </item>
+    <item
+        jar="E:\files\android_projects\Getnews\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b8f4e143a441dc9bc203f579f76a9d3a19c4799d">
+        <dex dex="E:\files\android_projects\Getnews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_664d988458cd22086a79829a41f29c8e2a16197f\classes.dex" />
+    </item>
+    <item
+        jar="E:\files\android_projects\Getnews\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5d95580e24769e680a5b7db187912ea345eeddcd">
+        <dex dex="E:\files\android_projects\Getnews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8a423d5427fd63655ffacc16a86a36109a015b5c\classes.dex" />
+    </item>
+    <item
+        jar="E:\files\android_projects\Getnews\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\files\android_projects\Getnews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_7035ef94fed7493e8917b30a0fc1bc9a9f9a5098\classes.dex" />
+    </item>
+
+</items>
